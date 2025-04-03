@@ -1,0 +1,842 @@
+[
+  {
+    "store": "app_store",
+    "app_id": "447188370",
+    "app_name": "Snapchat",
+    "developer_name": "Snap, Inc.",
+    "risk_score": 4.5,
+    "risk_classification": "Medium Risk - Exercise Caution",
+    "suspicious_factors": [
+      "suspicious_description",
+      "similar_to_popular"
+    ],
+    "recommendation": "Proceed with caution. This app shows some suspicious characteristics that warrant careful consideration.",
+    "developer_id": "446889612",
+    "rating": 4.6753,
+    "reviews": 3978617,
+    "risk_factors": {
+      "suspicious_description": 2.0,
+      "similar_to_popular": 2.5
+    },
+    "developer_website": "http://www.snapchat.com",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/snapchat/id447188370?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "835599320",
+    "app_name": "TikTok",
+    "developer_name": "TikTok Ltd.",
+    "risk_score": 4.5,
+    "risk_classification": "Medium Risk - Exercise Caution",
+    "suspicious_factors": [
+      "suspicious_description",
+      "similar_to_popular"
+    ],
+    "recommendation": "Proceed with caution. This app shows some suspicious characteristics that warrant careful consideration.",
+    "developer_id": "1322881000",
+    "rating": 4.74451,
+    "reviews": 18098052,
+    "risk_factors": {
+      "suspicious_description": 2.0,
+      "similar_to_popular": 2.5
+    },
+    "developer_website": "http://www.tiktok.com",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/tiktok/id835599320?uo=4"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.google.android.apps.photos",
+    "app_name": "Google Photos",
+    "developer_name": "Google LLC",
+    "risk_score": 4.5,
+    "risk_classification": "Medium Risk - Exercise Caution",
+    "suspicious_factors": [
+      "suspicious_description",
+      "similar_to_popular"
+    ],
+    "recommendation": "Proceed with caution. This app shows some suspicious characteristics that warrant careful consideration.",
+    "developer_id": "5700313618786177705",
+    "rating": 4.4411383,
+    "reviews": 1314469,
+    "installs": "10,000,000,000+",
+    "risk_factors": {
+      "suspicious_description": 2.0,
+      "similar_to_popular": 2.5
+    },
+    "developer_website": "https://support.google.com/photos",
+    "developer_email": "asxvmprobertest@gmail.com",
+    "developer_address": null,
+    "privacy_policy": "http://www.google.com/policies/privacy"
+  },
+  {
+    "store": "app_store",
+    "app_id": "448639966",
+    "app_name": "PicCollage: Magic Photo Editor",
+    "developer_name": "Cardinal Blue",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "381057842",
+    "rating": 4.79387,
+    "reviews": 1718002,
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "http://piccollage.com",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/piccollage-magic-photo-editor/id448639966?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "1149994032",
+    "app_name": "Facetune: Video & Photo Editor",
+    "developer_name": "Lightricks Ltd.",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "606310584",
+    "rating": 4.61868,
+    "reviews": 331019,
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "http://www.facetuneapp.com",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/facetune-video-photo-editor/id1149994032?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "897446215",
+    "app_name": "Canva: AI Photo & Video Editor",
+    "developer_name": "Canva",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "897446218",
+    "rating": 4.88256,
+    "reviews": 2634770,
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "https://www.canva.com/iphone/",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "878783582",
+    "app_name": "Lightroom Photo & Video Editor",
+    "developer_name": "Adobe Inc.",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "331646274",
+    "rating": 4.7762,
+    "reviews": 301766,
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "https://www.adobe.com/products/photoshop-lightroom.html",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/lightroom-photo-video-editor/id878783582?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "998411110",
+    "app_name": "AirBrush: Face Photo Editor",
+    "developer_name": "PIXOCIAL LABS PTE. LTD.",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "1533253001",
+    "rating": 4.80201,
+    "reviews": 184414,
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "http://appairbrush.com/",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/airbrush-face-photo-editor/id998411110?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "997362197",
+    "app_name": "InShot - Video Editor",
+    "developer_name": "SHANTANU PTE. LTD.",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "1619465920",
+    "rating": 4.85716,
+    "reviews": 2247171,
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "http://inshot.cc/",
+    "developer_email": "contactus@inshot.com",
+    "privacy_policy": "https://apps.apple.com/us/app/inshot-video-editor/id997362197?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "454768104",
+    "app_name": "Pic Stitch - Collage Editor",
+    "developer_name": "Maple Media Apps, LLC",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "1289801633",
+    "rating": 4.66856,
+    "reviews": 61010,
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "http://maplemedia.io",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/pic-stitch-collage-editor/id454768104?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "863844475",
+    "app_name": "YouCam Makeup: Face Editor",
+    "developer_name": "PERFECT MOBILE CORP.",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "1018779369",
+    "rating": 4.75796,
+    "reviews": 146684,
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "https://www.perfectcorp.com/consumer",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/youcam-makeup-face-editor/id863844475?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "597851882",
+    "app_name": "Photo Editor",
+    "developer_name": "Maple Media Apps, LLC",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "1289801633",
+    "rating": 4.61188,
+    "reviews": 43080,
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "https://maplemedia.io/",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/photo-editor/id597851882?uo=4"
+  },
+  {
+    "store": "play_store",
+    "app_id": "photo.editor.photoeditor.photoeditorpro",
+    "app_name": "AI Photo Editor - Polish",
+    "developer_name": "InShot Inc.",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "InShot+Inc.",
+    "rating": 4.8306203,
+    "reviews": 76748,
+    "installs": "100,000,000+",
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "https://inshot.app/",
+    "developer_email": "app-store@3x.png",
+    "developer_address": null,
+    "privacy_policy": "https://inshotapp.com/website/collage/policy.html"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.adobe.psmobile",
+    "app_name": "Photoshop Express Photo Editor",
+    "developer_name": "Adobe",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "4734916851270416020",
+    "rating": 4.5309134,
+    "reviews": 57819,
+    "installs": "100,000,000+",
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": null,
+    "developer_email": null,
+    "developer_address": null,
+    "privacy_policy": "http://www.adobe.com/privacy/policy.html"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.photoroom.app",
+    "app_name": "Photoroom AI Photo Editor",
+    "developer_name": "Photoroom AI Photo Editor",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "6074336733277322018",
+    "rating": 4.713807,
+    "reviews": 14398,
+    "installs": "100,000,000+",
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "http://photoroom.com",
+    "developer_email": null,
+    "developer_address": null,
+    "privacy_policy": "https://photoroom.com/legal/privacy"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.adobe.lrmobile",
+    "app_name": "Lightroom Photo & Video Editor",
+    "developer_name": "Adobe",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "4734916851270416020",
+    "rating": 4.5779805,
+    "reviews": 15170,
+    "installs": "100,000,000+",
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "https://www.adobe.com/products/photoshop-lightroom.html",
+    "developer_email": null,
+    "developer_address": null,
+    "privacy_policy": "http://www.adobe.com/go/privacy_policy"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.bigwinepot.nwdn.international",
+    "app_name": "Remini - AI Photo Enhancer",
+    "developer_name": "Bending Spoons",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "Bending+Spoons",
+    "rating": 4.1381364,
+    "reviews": 21128,
+    "installs": "100,000,000+",
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "https://remini.ai/",
+    "developer_email": "hello@remini.ai",
+    "developer_address": null,
+    "privacy_policy": "https://bendingspoons.com/privacy.html?app=1470373330"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.cyberlink.photodirector",
+    "app_name": "PhotoDirector: AI Photo Editor",
+    "developer_name": "Cyberlink Corp",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "9164452242719817477",
+    "rating": 4.1473155,
+    "reviews": 23164,
+    "installs": "50,000,000+",
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "http://www.cyberlink.com/",
+    "developer_email": null,
+    "developer_address": null,
+    "privacy_policy": "https://www.cyberlink.com/prog/ap/app-privacy-redirect.jsp?"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.cyberlink.youperfect",
+    "app_name": "YouCam Perfect - Photo Editor",
+    "developer_name": "Perfect Mobile Corp.",
+    "risk_score": 2.0,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "suspicious_description"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "7878009122471162106",
+    "rating": 4.096947,
+    "reviews": 39312,
+    "installs": "100,000,000+",
+    "risk_factors": {
+      "suspicious_description": 2.0
+    },
+    "developer_website": "https://www.perfectcorp.com/consumer",
+    "developer_email": null,
+    "developer_address": null,
+    "privacy_policy": "https://www.perfectcorp.com/stat/BeautyCircle/enu/privacy.html?utm_source=ycp&utm_medium=android&utm_campaign=policypage"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.kvadgroup.photostudio_pro",
+    "app_name": "Photo Studio PRO",
+    "developer_name": "KVADGroup App Studio",
+    "risk_score": 1.5,
+    "risk_classification": "Low Risk - Likely Genuine with Minor Concerns",
+    "suspicious_factors": [
+      "generic_developer_name"
+    ],
+    "recommendation": "This app appears to be genuine but has some minor risk factors to be aware of.",
+    "developer_id": "5488771027629832739",
+    "rating": 4.778972,
+    "reviews": 8411,
+    "installs": "1,000,000+",
+    "risk_factors": {
+      "generic_developer_name": 1.5
+    },
+    "developer_website": "http://www.kvadgroup.com",
+    "developer_email": "logo@2x.png",
+    "developer_address": null,
+    "privacy_policy": "http://kvadgroup.com/ps_pro_pp.txt"
+  },
+  {
+    "store": "app_store",
+    "app_id": "546821797",
+    "app_name": "Photo Editor-",
+    "developer_name": "Axiem Systems",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "397601279",
+    "rating": 4.64788,
+    "reviews": 287780,
+    "risk_factors": {},
+    "developer_website": null,
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/photo-editor/id546821797?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "587366035",
+    "app_name": "Picsart AI Video, Photo Editor",
+    "developer_name": "PicsArt, Inc.",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "587366038",
+    "rating": 4.67591,
+    "reviews": 1165543,
+    "risk_factors": {},
+    "developer_website": "https://picsart.com",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/picsart-ai-video-photo-editor/id587366035?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "1500855883",
+    "app_name": "CapCut - Video Editor",
+    "developer_name": "Bytedance Pte. Ltd",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "1497663561",
+    "rating": 4.70401,
+    "reviews": 1019666,
+    "risk_factors": {},
+    "developer_website": "https://www.capcut.com",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/capcut-video-editor/id1500855883?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "576649830",
+    "app_name": "InstaSize: AI Photo Editor",
+    "developer_name": "Instasize Inc.",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "576649833",
+    "rating": 4.66287,
+    "reviews": 308566,
+    "risk_factors": {},
+    "developer_website": "https://instasize.com",
+    "developer_email": "support@instasize.com",
+    "privacy_policy": "https://apps.apple.com/us/app/instasize-ai-photo-editor/id576649830?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "530957470",
+    "app_name": "Photo Editоr",
+    "developer_name": "VIDEO EDITOR PTE. LTD.",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "436796189",
+    "rating": 4.67434,
+    "reviews": 15320,
+    "risk_factors": {},
+    "developer_website": "https://livecollage.zendesk.com/hc/en-us/sections/360003567592-Photo-Editor",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/photo-edit%D0%BEr/id530957470?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "588013838",
+    "app_name": "VSCO: Photo & Video Editor",
+    "developer_name": "Visual Supply Company",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "513526768",
+    "rating": 4.69191,
+    "reviews": 265119,
+    "risk_factors": {},
+    "developer_website": "http://vsco.co/vscocam",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "1180884341",
+    "app_name": "FaceApp: Perfect Face Editor",
+    "developer_name": "FaceApp Technology Limited",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "1561581171",
+    "rating": 4.73324,
+    "reviews": 1651508,
+    "risk_factors": {},
+    "developer_website": "https://www.faceapp.com",
+    "developer_email": "woman-lg@1.5x.jpg",
+    "privacy_policy": "https://apps.apple.com/us/app/faceapp-perfect-face-editor/id1180884341?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "409838725",
+    "app_name": "Splice - Video Editor & Maker",
+    "developer_name": "Bending Spoons Apps ApS",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "1280299077",
+    "rating": 4.59855,
+    "reviews": 402848,
+    "risk_factors": {},
+    "developer_website": "https://spliceapp.com/",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/splice-video-editor-maker/id409838725?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "530957474",
+    "app_name": "Collage Maker - LiveCollage",
+    "developer_name": "VIDEO EDITOR PTE. LTD.",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "436796189",
+    "rating": 4.77794,
+    "reviews": 136745,
+    "risk_factors": {},
+    "developer_website": "https://www.livecollage.net",
+    "developer_email": "livecollage.us@gmail.com",
+    "privacy_policy": "https://apps.apple.com/us/app/collage-maker-livecollage/id530957474?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "844570015",
+    "app_name": "Funimate Video & Motion Editor",
+    "developer_name": "Pixery Bilgi Teknolojileri",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "844570019",
+    "rating": 4.67664,
+    "reviews": 672235,
+    "risk_factors": {},
+    "developer_website": "http://funimate.com",
+    "developer_email": "support@funimate.com",
+    "privacy_policy": "https://apps.apple.com/us/app/funimate-video-motion-editor/id844570015?uo=4"
+  },
+  {
+    "store": "app_store",
+    "app_id": "486781045",
+    "app_name": "Magisto Video Editor & Maker",
+    "developer_name": "Vimeo, Inc.",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "486781048",
+    "rating": 4.61686,
+    "reviews": 123103,
+    "risk_factors": {},
+    "developer_website": "http://www.magisto.com",
+    "developer_email": null,
+    "privacy_policy": "https://apps.apple.com/us/app/magisto-video-editor-maker/id486781045?uo=4"
+  },
+  {
+    "store": "play_store",
+    "app_id": "photoeditor.layout.collagemaker",
+    "app_name": "Collage Maker | Photo Editor",
+    "developer_name": "Photo Editor & Collage Maker",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "Photo+Editor+%26+Collage+Maker",
+    "rating": 4.8946853,
+    "reviews": 39751,
+    "installs": "100,000,000+",
+    "risk_factors": {},
+    "developer_website": "https://photoeditorapps.com/",
+    "developer_email": "photostudio.feedback@gmail.com",
+    "developer_address": null,
+    "privacy_policy": "https://photoeditorapps.com/website/policy2.html"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.picsart.studio",
+    "app_name": "Picsart AI Photo Editor, Video",
+    "developer_name": "PicsArt, Inc.",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "5408830062919995155",
+    "rating": 4.05287,
+    "reviews": 456084,
+    "installs": "1,000,000,000+",
+    "risk_factors": {},
+    "developer_website": "https://picsart.com",
+    "developer_email": null,
+    "developer_address": null,
+    "privacy_policy": "https://picsart.com/privacy-policy"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.camerasideas.instashot",
+    "app_name": "Video Editor & Maker - InShot",
+    "developer_name": "InShot Video Editor",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "InShot+Video+Editor",
+    "rating": 4.838977,
+    "reviews": 227420,
+    "installs": "500,000,000+",
+    "risk_factors": {},
+    "developer_website": "http://inshot.com",
+    "developer_email": "contactus@inshot.com",
+    "developer_address": null,
+    "privacy_policy": "http://inshotapp.com/website/InShotAndroid/privacypolicy.html"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.canva.editor",
+    "app_name": "Canva: AI Photo & Video Editor",
+    "developer_name": "Canva",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "7271418222529975455",
+    "rating": 4.805876,
+    "reviews": 90917,
+    "installs": "500,000,000+",
+    "risk_factors": {},
+    "developer_website": "https://www.canva.com/",
+    "developer_email": null,
+    "developer_address": null,
+    "privacy_policy": "https://about.canva.com/privacy-policy/"
+  },
+  {
+    "store": "play_store",
+    "app_id": "photo.editor.photoeditor.filtersforpictures",
+    "app_name": "Photo Editor - Lumii",
+    "developer_name": "InShot Video Editor",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "InShot+Video+Editor",
+    "rating": 4.782242,
+    "reviews": 22778,
+    "installs": "50,000,000+",
+    "risk_factors": {},
+    "developer_website": "https://inshot.app",
+    "developer_email": "app-store@3x.png",
+    "developer_address": null,
+    "privacy_policy": "http://inshotapp.com/lumii/website/privacypolicy.html"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.niksoftware.snapseed",
+    "app_name": "Snapseed",
+    "developer_name": "Google LLC",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "5700313618786177705",
+    "rating": 4.089899,
+    "reviews": 19758,
+    "installs": "100,000,000+",
+    "risk_factors": {},
+    "developer_website": "https://support.google.com/snapseed",
+    "developer_email": "asxvmprobertest@gmail.com",
+    "developer_address": null,
+    "privacy_policy": "http://www.google.com/policies/privacy/"
+  },
+  {
+    "store": "play_store",
+    "app_id": "photocollage.photoeditor.collagemaker",
+    "app_name": "Photo Editor - Collage Maker",
+    "developer_name": "Photo Editor & Collage Maker",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "Photo+Editor+%26+Collage+Maker",
+    "rating": 4.891345,
+    "reviews": 20882,
+    "installs": "50,000,000+",
+    "risk_factors": {},
+    "developer_website": "https://photoeditorapps.com/",
+    "developer_email": "photostudio.feedback@gmail.com",
+    "developer_address": null,
+    "privacy_policy": "https://photoeditorapps.com/website/policy2.html"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.everimaging.photoeffectstudio",
+    "app_name": "Fotor - AI Ghibli Photo Editor",
+    "developer_name": "AI Art Photo Editor | Everimaging Ltd.",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "8665182620209793262",
+    "rating": 4.1765537,
+    "reviews": 20244,
+    "installs": "10,000,000+",
+    "risk_factors": {},
+    "developer_website": "https://www.fotor.com",
+    "developer_email": null,
+    "developer_address": null,
+    "privacy_policy": "http://www.fotor.com/privacy.html"
+  },
+  {
+    "store": "play_store",
+    "app_id": "com.iudesk.android.photo.editor",
+    "app_name": "Photo Editor",
+    "developer_name": "dev.macgyver",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "dev.macgyver",
+    "rating": 4.372402,
+    "reviews": 20522,
+    "installs": "50,000,000+",
+    "risk_factors": {},
+    "developer_website": "https://www.iudesk.com/",
+    "developer_email": null,
+    "developer_address": null,
+    "privacy_policy": "https://www.iudesk.com/photoeditor/privacy"
+  },
+  {
+    "store": "play_store",
+    "app_id": "vsin.t16_funny_photo",
+    "app_name": "Photo Lab Picture Editor & Art",
+    "developer_name": "PHOTO LAB DMCC",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "9029633422769677178",
+    "rating": 4.4760895,
+    "reviews": 104335,
+    "installs": "100,000,000+",
+    "risk_factors": {},
+    "developer_website": "https://pho.to/",
+    "developer_email": null,
+    "developer_address": null,
+    "privacy_policy": "http://pho.to/policy.php"
+  },
+  {
+    "store": "play_store",
+    "app_id": "io.faceapp",
+    "app_name": "FaceApp: Perfect Face Editor",
+    "developer_name": "FaceApp Technology Ltd",
+    "risk_score": 0,
+    "risk_classification": "Very Low Risk - Genuine",
+    "suspicious_factors": [],
+    "recommendation": "This app appears to be genuine with no obvious risk factors detected.",
+    "developer_id": "5045508959348955284",
+    "rating": 4.3013077,
+    "reviews": 75166,
+    "installs": "500,000,000+",
+    "risk_factors": {},
+    "developer_website": "https://www.faceapp.com",
+    "developer_email": "woman-lg@1.5x.jpg",
+    "developer_address": null,
+    "privacy_policy": "http://www.faceapp.com/privacy"
+  }
+]
